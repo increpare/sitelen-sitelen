@@ -1,6 +1,6 @@
 # Sitelen Sitelen SVG Glyphs
 
-This is a collection of SVG files of the glyphs for sitelen sitelen (hieroglyphics for Toki Pona) created by jan Same.
+This is a collection of SVG files of the glyphs for sitelen sitelen (hieroglyphics for [Toki Pona](http://tokipona.org)) created by jan Same.
 
 Each glyph was taken from the source EPS file created by jan Same and exported into individual SVG files.
 
